@@ -1,0 +1,41 @@
+.section-comment{
+    width: 90%;
+    margin: 0 auto;
+}
+.Comment{
+    display: block;
+    width: 90%;
+    margin: 1rem;
+    padding: 5px;
+    margin: 5px auto;
+}
+textarea.Comment{
+    height: 70px;
+}
+.Comment.btn{
+    text-align: left;
+    width: 85px;
+
+}
+img.show{
+    height: 50px;
+    width: 50px !important;
+}
+.show{
+    float: left;
+    display: block;
+}
+.showComment{
+    padding: 1rem;
+    display: flex;
+}
+.showComment .content{
+    padding-left: 10px;
+
+}
+.btn-delete-comment{
+    width: 35px;
+    height: 20px;
+    text-align: center;
+    padding: 0;
+}
